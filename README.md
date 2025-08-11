@@ -1,6 +1,7 @@
 # Doc-Based Agent Handover Pattern
 
-## Overview
+![alt text](agent-handoover.jpg)
+
 
 Pattern for a simple but effective mechanism for handling task handover between code generation agents. This can be used effectively as a supplement to AI-native graph-based memory modules or to provide supervising humans with oversight data to monitor the performance of agents working on different systems.
 
