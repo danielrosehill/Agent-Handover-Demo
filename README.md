@@ -1,5 +1,7 @@
 # Doc-Based Agent Handover Pattern
 
+[![View AI Agents Repository Index](https://img.shields.io/badge/View-AI%20Agents%20Repository%20Index-blue?style=for-the-badge)](https://github.com/danielrosehill/AI-Agents)
+
 ![alt text](agent-handoover.jpg)
 
 
@@ -155,15 +157,15 @@ Provide the target agent with:
 - Risk assessment and mitigation strategies
 ```
 
-## Key Benefits
+## Key Characteristics
 
-- ✅ **Cross-platform compatibility** - Works between any AI systems that can read markdown
-- ✅ **Model agnostic** - Transfer work between different AI models (GPT, Claude, Llama, etc.)
-- ✅ **Network independent** - Simple file transfer, no complex networking required
-- ✅ **Human readable** - Handover briefs are fully readable and editable by humans
-- ✅ **Version controllable** - Track handover history with git
-- ✅ **Lightweight** - No additional infrastructure required
-- ✅ **Specialized agents** - Dedicated agents for handover generation and processing
+- **Cross-platform compatibility**: Works between any AI systems that can read markdown
+- **Model agnostic**: Transfers work between different AI models (GPT, Claude, Llama, etc.)
+- **Network independent**: Uses simple file transfer without complex networking
+- **Human readable**: Handover briefs are readable and editable by humans
+- **Version controllable**: Tracks handover history with git
+- **Lightweight**: Requires no additional infrastructure
+- **Specialized agents**: Uses dedicated agents for handover generation and processing
 
 ## Example Use Cases
 
@@ -223,3 +225,13 @@ Agent-Handover-Demo/
 4. **Scale to complex multi-environment workflows**
 
 This pattern enables sophisticated agentic workflows while maintaining simplicity and human oversight capabilities.
+
+## Author
+
+**Daniel Rosehill**
+Website: [danielrosehill.com](https://danielrosehill.com)
+Email: github@danielrosehill.com
+
+## License
+
+MIT License - See [LICENSE](LICENSE) file for details.
