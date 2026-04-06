@@ -226,6 +226,10 @@ Agent-Handover-Demo/
 
 This pattern enables sophisticated agentic workflows while maintaining simplicity and human oversight capabilities.
 
+## Related Repositories
+
+- [Claude-Handover](https://github.com/danielrosehill/Claude-Handover)
+
 ## Author
 
 **Daniel Rosehill**
